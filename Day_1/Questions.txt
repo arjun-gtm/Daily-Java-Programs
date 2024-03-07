@@ -1,0 +1,27 @@
+*********JAVA PRACTICE- DAY 1*********
+--------------------------------------
+--------------------------------------
+--------------------------------------
+1. Write a program that takes two numbers and an operator (+, -, *, /) as input 
+from the user and performs the corresponding arithmetic operation. Use functions 
+to perform each operation and display the result.
+--------------------------------------
+--------------------------------------
+2.Write a program that takes an integer input from the user and determines whether
+ it's an even or odd number. Use an if-else statement to check the number's parity.
+--------------------------------------
+--------------------------------------
+3.Create a program that generates the multiplication table of a given number entered
+ by the user. Use loops to generate the table.
+--------------------------------------
+--------------------------------------
+4.Create a program that calculates the simple interest based on the principal amount,
+ rate of interest, and time period entered by the user. Use a function to perform the
+ interest calculation.
+--------------------------------------
+--------------------------------------
+5.Create a program that takes a temperature in Celsius from the user and converts it
+ to Fahrenheit using the function.
+Formula: Fahrenheit = (Celsius * 9/5) + 32.
+--------------------------------------
+--------------------------------------
