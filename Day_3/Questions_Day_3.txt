@@ -1,0 +1,31 @@
+*********JAVA PRACTICE- DAY 3*********
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1.Write a Java program that takes an array of integers as input from the
+  user and calculates the sum and average of all the elements in the 
+  array. Display both the sum and average.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+2.Write a Java program that asks user to enter any character and check
+  if the entered character is vowel letter or not.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+3.Write a Java program that prompts the user to enter a number and prints
+  the following pattern:
+  1
+  1 2
+  1 2 3
+  1 2 3 4
+  1 2 3 4 5
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+4. Write a Java program that takes a number from user and display its
+   reverse.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+5. Write a Java program that prompts the user to enter a string and 
+   counts the number of vowels (a, e, i, o, u) in the string. 
+   Display the count of vowels at the end.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
