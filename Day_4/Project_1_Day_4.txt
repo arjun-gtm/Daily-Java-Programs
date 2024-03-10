@@ -1,0 +1,56 @@
+*********JAVA PRACTICE- DAY 4*********
+-------------------------------------------------------------------------
+********* PROJECT-1 *********
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
+  NOTE: DON'T COPY YOUR PREVIOUS PROGRAMS
+  NOTE: DON'T COPY YOUR PREVIOUS PROGRAMS
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- You've been assigned a Java practice task that involves creating a menu-driven program. The program should offer various functionalities implemented through separate    functions. Each function corresponds to a specific task, and the user can choose from a menu of options.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Task Description:
+
+-- Write a Java program that presents users with a menu containing 15 options. Each option corresponds to a specific task related to previous days 15 questions. Users can  select an option, and the program should execute the corresponding functionality using separate functions.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Functionality Breakdown:
+
+   1. Perform arithmetic operation: Implement a function that takes two numbers and an operator (+, -, *, /) as input, performs the corresponding arithmetic operation, and       returns the result.
+   2. Check even or odd: Implement a function that checks whether a given number is even or odd.
+   3. Generate multiplication table: Implement a function that generates the multiplication table of a given number.
+   4. Calculate simple interest: Implement a function that calculates simple interest based on principal amount, rate of interest, and time period.
+   5 .Convert Celsius to Fahrenheit: Implement a function that converts temperature from Celsius to Fahrenheit.
+   6 .Display elements of an array: Implement a function that initializes an array of integers with some values and displays each element of the array.
+   7. Input positive integer: Implement a function that repeatedly asks the user to input a positive integer until a valid input is received.
+
+   ******Dont do no. 8*******
+   8. Display menu with options: Implement a function that displays the menu of options to the user.
+
+   9. Find maximum of two integers: Implement a function that takes two integers as input and returns the maximum of the two.
+  10. Calculate factorial: Implement a function that calculates the factorial of a given positive integer.
+  11. Sum and average of array elements: Implement a function that takes an array of integers as input, calculates the sum and average of all elements, and displays both.
+  12. Check if character is a vowel: Implement a function that checks if a given character is a vowel.
+  13. Print pattern: Implement a function that prompts the user to input a number and prints a specific pattern.
+  14. Reverse a number: Implement a function that takes a number as input and returns its reverse.
+  15. Count vowels in a string: Implement a function that counts the number of vowels in a given string.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Instructions:
+
+-- Create a Java program that incorporates the functionalities described above.
+-- Ensure that each functionality is implemented as a separate function for modularity and ease of maintenance.
+-- Display a menu of options to the user and execute the corresponding functionality based on the user's choice.
+-- Handle input validation and error cases appropriately.
+-- Test your program thoroughly to ensure it functions as expected.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Tip:
+   --Solve this program like Day2 Question No 3.
+
+
+********* THANK YOU !! *********
+ 
