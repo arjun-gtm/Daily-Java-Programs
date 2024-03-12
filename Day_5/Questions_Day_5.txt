@@ -1,0 +1,30 @@
+*********JAVA PRACTICE- DAY 5*********
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1. Write a Java program that finds the maximum and minimum elements in an
+   array of integers entered by the user. Display both the maximum and
+   minimum values.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+2. Write a Java program that takes two arrays of integers as input from 
+   the user and finds and displays the common elements between them.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+3. Write a Java program that prompts the user to enter the size of an 
+   array. Then, ask the user to input the elements of the array one by 
+   one. After receiving the array elements, prompt the user to enter an 
+   index. Finally, display the element at the specified index.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+4. Write a Java program that takes an array of integers as input and sorts
+   it in ascending order. Then display the sorted array.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+5. Write a Java program that defines a function isPalindrome() that takes
+   a string as input and display if the entered string is a palindrome or
+   not. 
+   --A palindrome is a string that reads the same forwards and backwards,
+     ignoring spaces, punctuation, and capitalization.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
